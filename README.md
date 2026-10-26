@@ -57,9 +57,9 @@ Prototype fonctionnel testé sur une piste rectiligne d'environ 3 m avec des obj
 
 https://github.com/user-attachments/assets/eceb5512-579b-48bb-8f18-30c5cd1eb3d8
 
-
-
 ## Difficultés
+
+Naviguer de façon fiable **sans GPS** et obtenir une bonne détection avec un **jeu de données réduit**.
 
 ## Pistes d'évolution
 
@@ -75,4 +75,4 @@ docs/     schémas SysML, simulation Simulink
 
 ## Auteurs
 
-Taha Jorfaoui
+Taha Jorfaoui et ADA Ouèssè Amédé.
