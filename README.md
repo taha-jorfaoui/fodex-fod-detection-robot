@@ -53,19 +53,13 @@ Prototype fonctionnel testé sur une piste rectiligne d'environ 3 m avec des obj
 | ![Intégration matérielle](images/hardware-integration.jpg) | ![Détection YOLOv5](images/yolov5-detection.jpg) |
 | ![Annotation et entraînement](images/annotation-et-entrainement.jpg) | ![Interface web](images/interface-web.jpg) |
 
-![Test sur piste](images/test-sur-piste.jpg)
-
 **Vidéo de l'essai du robot** (31 s : débris sans gêne pour le robot, débris de grande taille, manœuvre d'évitement) :
-
-
 
 https://github.com/user-attachments/assets/eceb5512-579b-48bb-8f18-30c5cd1eb3d8
 
 
 
 ## Difficultés
-
-Naviguer de façon fiable **sans GPS** et obtenir une bonne détection avec un **jeu de données réduit**.
 
 ## Pistes d'évolution
 
