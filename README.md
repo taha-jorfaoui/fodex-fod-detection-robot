@@ -75,4 +75,4 @@ docs/     schémas SysML, simulation Simulink
 
 ## Auteurs
 
-Taha Jorfaoui et ADA Ouèssè Amédé.
+Taha Jorfaoui 
